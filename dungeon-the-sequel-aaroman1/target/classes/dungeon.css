@@ -1,0 +1,57 @@
+.title-text {
+  -fx-font-size: 50px;
+  -fx-font-family: 'Old English Text MT', 'Georgia', serif;
+  -fx-font-weight: bold;
+  -fx-text-fill: gold;
+  -fx-effect: dropshadow(gaussian, black, 4, 0.6, 2, 2);
+}
+
+.score-label {
+  -fx-font-size: 24px;
+  -fx-font-family: 'Georgia', serif;
+  -fx-text-fill: #f4e8c1;
+  -fx-font-weight: bold;
+}
+
+.cell {
+  -fx-background-size: cover;
+  -fx-border-color: #4d3b2a;
+  -fx-border-width: 1px;
+  -fx-background-color: linear-gradient(from 0% 0% to 100% 100%, #2b1d0e, #1c1208);
+  -fx-effect: innershadow(gaussian, black, 2, 0.4, 1, 1);
+}
+
+.button {
+  -fx-font-size: 16px;
+  -fx-font-family: 'Georgia', serif;
+  -fx-text-fill: #fff8dc;
+  -fx-background-color: linear-gradient(from 0% 0% to 100% 100%, #6a4e3c, #3e2a1c);
+  -fx-border-color: #d4af37;
+  -fx-border-radius: 5px;
+  -fx-background-radius: 5px;
+  -fx-effect: dropshadow(gaussian, black, 3, 0.5, 1, 1);
+}
+
+.label {
+  -fx-font-family: 'Georgia', serif;
+  -fx-font-weight: bold;
+  -fx-text-fill: #f4e8c1;
+}
+
+.title-screen {
+  -fx-background-image: url("images/background.png");
+  -fx-background-size: cover;
+  -fx-background-position: center;
+  -fx-background-repeat: no-repeat;
+}
+
+.info-bar {
+  -fx-font-family: 'Georgia', serif;
+  -fx-font-size: 18px;
+  -fx-text-fill: #fceabb;
+  -fx-spacing: 20px;
+  -fx-background-color: rgba(30, 20, 10, 0.6);
+  -fx-alignment: center;
+  -fx-padding: 0;
+  -fx-margin: 0;
+}
