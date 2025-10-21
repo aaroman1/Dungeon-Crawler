@@ -214,14 +214,6 @@ Built for a JavaFX + MVC assignment. Thanks to the JavaFX community for tooling 
 
 ---
 
-## 📷 Screenshots (optional)
-
-```
-docs/
- ├─ title.png
- └─ game.png
-```
-
 Embed in README:
 
 ```md
