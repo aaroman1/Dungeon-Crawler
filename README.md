@@ -208,21 +208,6 @@ MIT. See `LICENSE` in this repo.
 
 ---
 
-## 🙌 Acknowledgements
-
-Built for a JavaFX + MVC assignment. Thanks to the JavaFX community for tooling and examples.
-
----
-
-Embed in README:
-
-```md
-![Title Screen](docs/title.png)
-![Game View](docs/game.png)
-```
-
----
-
 ### Quick Start (TL;DR)
 
 ```bash
